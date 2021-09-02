@@ -1,0 +1,1 @@
+gdalwarp -t_srs EPSG:32632 /home/dlr/sampling/data/sonneberg_startlastchangeperiod.tif /home/dlr/sampling/data/sonneberg_startlastchangeperiod_32632.tif
